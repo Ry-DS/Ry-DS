@@ -5,7 +5,7 @@
 ### 🔭 What am I working on?
 I'm currently working with Ovio, a non-profit looking to bring wider engagement to the world of Open Source. With my time there, I currently work on Aqualink, an open source coral monitoring application, and their open source discovery platform.
 
-I'm also the Lead Developer for 50 Raw, an e-learning start-up looking to bring the latest and greatest in tech to thousands of high-school students across Victoria. We hope to build a youth educational platform like no other, and challenge what is possible with e-learning :rocket:
+I'm also the Lead Developer at [50 Raw](https://50raw.com.au), an e-learning start-up looking to bring the latest and greatest in tech to thousands of high-school students across Victoria. We hope to build a youth educational platform like no other, and challenge what is possible with e-learning :rocket:
 
 I also love to work on small projects on the side such as react-ui-gradient (an upcoming open-source gradient component!), and participate at hackathons and coding comps!
 
