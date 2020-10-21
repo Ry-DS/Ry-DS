@@ -1,6 +1,7 @@
 
 <h1 align='center'>Hey there! 👋</h1>
 <h3 align='center'>I'm Ryan, a first-year SWE student from the land down under 🦘</h4>
+<span>You're my <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplyballistic&label=Profile%20views&color=0e75b6&style=flat" alt="simplyballistic" /> </p> visitor!</span>
 
 ### 🔭 What am I working on?
 I'm currently working with Ovio, a non-profit looking to bring wider engagement to the world of Open Source. With my time there, I currently work on Aqualink, an open source coral monitoring application, and their open source discovery platform.
