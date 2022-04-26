@@ -7,11 +7,9 @@
 ### 🔭 What am I working on?
 I'm currently working with [Ovio](https://ovio.org), a non-profit looking to bring wider engagement to the world of Open Source. With my time there, I currently work on [Aqualink](https://github.com/aqualinkorg/aqualink-app), an open source coral monitoring application, and their open source discovery platform.
 
-I've also worked with [50 Raw](https://50raw.com.au), an e-learning start-up looking to bring the latest and greatest in tech to thousands of high-school students across Victoria. They hope to build a youth educational platform like no other, and challenge what is possible with e-learning :rocket:
+I also volunteer at [HackMelbourne](https://www.facebook.com/hackmelbourne) as their Education and Website Director, leading an incredible team in creating engaging educational content, developing our websites, and offering mentorship to help forge the next batch of aspiring software engineers!
 
-Speaking of learning, I also volunteer at [HackMelbourne](https://www.facebook.com/hackmelbourne) as their Education and Website Director, leading an incredible team in creating engaging educational content, developing our websites, and offering mentorship to help forge the next batch of aspiring software engineers!
-
-I plan to join [Optiver](https://www.optiver.com/) as a graduate software engineer once I graduate!
+I plan to join [Optiver](https://www.optiver.com/) as a graduate software engineer once I graduate! (And currently working part-time with them :eyes:)
 
 I also love to participate in hackathons and coding comps when I have nothing else to do!
 
