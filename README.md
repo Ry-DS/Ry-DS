@@ -5,13 +5,13 @@
 <p align='center'><img src="https://komarev.com/ghpvc/?username=ry-ds"/> <img src="https://img.shields.io/stackexchange/stackoverflow/r/5279269"/></p>
 
 ### 🔭 What am I working on?
-I'm currently working with [Ovio](https://ovio.org), a non-profit looking to bring wider engagement to the world of Open Source. With my time there, I currently work on [Aqualink](https://github.com/aqualinkorg/aqualink-app), an open source coral monitoring application, and their open source discovery platform.
+I currently work at [Optiver](https://www.optiver.com/) as a software engineer! While there, I've worked on various systems around the Compliance and Risk stacks to help ensure Optiver trades within their Risk tolerence while adhering to the rules and regulations in the markets we trade.
 
-I also volunteer at [HackMelbourne](https://www.facebook.com/hackmelbourne) as their Education and Website Director, leading an incredible team in creating engaging educational content, developing our websites, and offering mentorship to help forge the next batch of aspiring software engineers!
+In my spare time, I volunteer as a software engineer at rUNSWift, a robotics team at UNSW with the goal of developing autonomous soccer playing software to compete at [RoboCup](https://spl.robocup.org/), a yearly international robotics competition!
 
-I plan to join [Optiver](https://www.optiver.com/) as a graduate software engineer once I graduate! (And currently working part-time with them :eyes:)
-
-I also love to participate in hackathons and coding comps when I have nothing else to do!
+In the past I've also worked at:
+- [Ovio](https://ovio.org), a non-profit looking to bring wider engagement to the world of Open Source. With my time there, I worked on [Aqualink](https://github.com/aqualinkorg/aqualink-app), an open source coral monitoring application, and their open source discovery platform.
+- [HackMelbourne](https://www.facebook.com/hackmelbourne) as their Education and Website Director. I led an incredible team in creating engaging educational content, developing our websites, and offering mentorship to help forge the next batch of aspiring software engineers!
 
 <!--### 💻 Why do I code?
 I code to express myself. Just as an artist moves the minds of others with a canvas as their medium, I like to think of my laptop as that canvas, using my unique approach to problem solving--> 
