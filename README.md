@@ -1,6 +1,6 @@
 
 <h1 align='center'>Hey there! 👋</h1>
-<h3 align='center'>I'm Ryan, a third-year Comp. Sci student from the land down under 🦘</h4>
+<h3 align='center'>I'm Ryan, a SWE from the land down under 🦘</h4>
 
 <p align='center'><img src="https://komarev.com/ghpvc/?username=ry-ds"/> <img src="https://img.shields.io/stackexchange/stackoverflow/r/5279269"/></p>
 
